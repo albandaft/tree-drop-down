@@ -1,4 +1,5 @@
-tree-drop-down
+Tree Drop Down
 ==============
 
-View a tree data structure with simple html dropdowns
+
+This is a small javascript class to presernt a data straucture of an undefined depth tree as drop down serlectts filling each other on change.
